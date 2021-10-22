@@ -10,5 +10,5 @@ const fn = () => {
 const b = [1, 2, 3]
 b.includes(2)
 
-console.log("마 잘되나")
+console.log('마~잘되나')
 console.log(checkType())
